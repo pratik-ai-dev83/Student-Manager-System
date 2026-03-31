@@ -36,8 +36,7 @@ Student-Manager-system/
 - PRATIK PATIL
 - GITHUB: https://github.com/pratik-ai-dev83
 
-## ====================================== Support ====================================== ##
-
+## Support:
  If something isn't working or you have ideas to improve this project,
  just open an issue — I’ll check it out as soon as possible.
  Let’s build something awesome together 🚀
