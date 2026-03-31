@@ -30,9 +30,14 @@ Student-Manager-system/
 |-- student.py       # Student class 
 |-- storage.py       # File handling
 |-- README.md        # Project documentation
- 
 
-# AUTHER 
+# FUTURE IMPROVEMENTS
+- Update student details
+- Sort students by marks
+- Show topper
+- GUI version (Tkinter)
+
+# AUTHOR 
 - PRATIK PATIL
 - GITHUB: https://github.com/pratik-ai-dev83
 
